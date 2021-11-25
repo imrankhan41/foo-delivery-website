@@ -1,6 +1,6 @@
 import React from 'react';
 import { Accordion } from 'react-bootstrap';
-import "./FrequentlyAskedQuestion.css"
+
 const FrequentlyAskedQuestion = () => {
     return (
         <div id="faq" className="container my-5">

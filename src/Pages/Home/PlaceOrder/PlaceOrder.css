@@ -1,15 +1,13 @@
 .details {
-    margin-top: 110px;
+  
     background-color: azure !important;
     padding: 20px;
   }
   .booking {
-    margin-top: 110px;
+    
     background-color: rgb(241, 238, 234);
   }
-  .add1-user{
-    margin-top: 110px;
-  }
+  
   .add1-user form {
     display: flex;
     flex-direction: column;

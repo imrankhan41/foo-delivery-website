@@ -26,7 +26,7 @@ const Banner = () => {
                     <Carousel.Caption>
                     <h1 className="text-color">How much fruit is needed daily?</h1>
                     <p className="text-color">The amount of fruit you need to eat depends on your age, sex, height, weight, and level of physical activity.</p>
-                    <button className="button-banner">Explore</button>
+                    <button className="button-banner">Watch</button>
                     </Carousel.Caption>
                 </Carousel.Item>
                 
